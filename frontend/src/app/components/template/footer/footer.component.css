@@ -1,0 +1,20 @@
+.footer {
+    position: fixed;
+    bottom: 0;
+
+    display: flex;
+    justify-content: flex-end;
+}
+
+.footer .sub-middle {
+    vertical-align: sub;
+}
+
+.footer span {
+    font-weight: 400;
+    font-size: 1rem;
+}
+
+.footer i {
+    font-size: 20px;
+}

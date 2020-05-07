@@ -1,0 +1,24 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "name": "Bolsa hippie",
+            "price": 25.0
+        },
+        {
+            "id": 2,
+            "name": "Brinco Olho Grego",
+            "price": 20.0
+        },
+        {
+            "id": 3,
+            "name": "Tie Die Alien",
+            "price": 59.90
+        },
+        {
+            "id": 4,
+            "name": "Top Crochet",
+            "price": 45.90
+        }
+    ]
+}
