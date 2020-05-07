@@ -6,3 +6,12 @@ body { margin: 0; font-family: Roboto, "Helvetica Neue", sans-serif; }
 .ml-5 {
     margin-left: 5px;
 }
+.msg-success {
+    background-color: #28a745;
+    color: #fff
+}
+
+.msg-error {
+    background-color: #d15252;
+    color: #fff
+}

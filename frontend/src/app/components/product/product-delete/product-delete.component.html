@@ -1,23 +1,25 @@
 <mat-card class="home mat-elevation-z3">
     <mat-card-title>
-        Novo produto
+        Excluir produto
     </mat-card-title>
     <form>
         <mat-form-field>
             <input matInput placeholder="Nome" 
-            [(ngModel)]="product.name"
+            [value]="product.name"
+            disabled
             name="name"
             >
         </mat-form-field>
         <mat-form-field>
             <input matInput placeholder="Preço(R$)" 
-            [(ngModel)]="product.price"
+            [value]="product.price"
+            disabled
             name="price"
             >
         </mat-form-field> 
     </form>
-    <button mat-raised-button (click)="createProduct()" color="primary">
-        Salvar
+    <button mat-raised-button (click)="deleteProduct()" color="warn">
+        Excluir
     </button>
     
     <button mat-raised-button (click)="cancel()">
