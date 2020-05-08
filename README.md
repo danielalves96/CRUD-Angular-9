@@ -20,7 +20,7 @@ O CRUD-Angular-9 é um projeto desenvolvido para estudo do framework Angular 9, 
 Para executar o projeto, será necessário instalar/usar os seguintes programas:
 * [Node.js](https://nodejs.org/en/download/)
 * [NPM](https://www.npmjs.com/)
-* [Angular](https://angular.io/)
+* [Angular 9](https://angular.io/)
 * [Angular Material UI](https://material.angular.io/)
 * [Visual Studio Code](https://code.visualstudio.com/download)
 
@@ -36,9 +36,9 @@ Para executar esse repositório baixe-o para sua maquina ou de um `Git Clone`.
 ### Backend 
 
 - `$ npm install` esse comando ira instalar todos os módulos necessários ao Backend
--  `$ npm start` Ira iniciar o servidor backend na `localhost:3001\` 
+-  `$ npm start` irá iniciar o servidor backend na `localhost:3001\` 
 
 ### Frontend | Web
 
 - `$ npm install` esse comando ira instalar todos os módulos necessários ao Angular
--  `$ npm start` Ira iniciar o servidor Frontend na `localhost:4200\` 
+-  `$ npm start` irá iniciar o servidor Frontend na `localhost:4200\` 
