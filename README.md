@@ -5,7 +5,7 @@ O CRUD-Angular-9 é um projeto desenvolvido para estudo do framework Angular 9, 
 
 ## Screenshots
 
-<img width="100%" src="https://i.ibb.co/Hgp31f7/gif.giff">
+<img width="100%" src="https://github.com/danielalves96/Images/blob/master/Projetos/Angular/1.gif?raw=true">
 
 ## Features
 
